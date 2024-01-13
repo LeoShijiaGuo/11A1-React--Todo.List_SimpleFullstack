@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with To-Do-List React Single Page Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
