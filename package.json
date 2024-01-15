@@ -17,11 +17,11 @@
   "scripts": {
     "start": "node backend/server.js",
     "start-react": "react-scripts start",
-    "dev": "  concurrently \" npm start\"    \"npm run start-react\"  ",
+    "dev": "  concurrently \" yarn start\"    \"yarn start-react\"  ",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "yarn build"
   },
   "eslintConfig": {
     "extends": [
