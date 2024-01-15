@@ -6,7 +6,7 @@
 2. **Install Frontend Dependencies**
    - Navigate to the directory:
      ```
-     cd your path to/11A1-React--Todo.List_SimpleFullstack-main/
+     cd your-path-to/11A1-React--Todo.List_SimpleFullstack-main/
      ```
    - Install dependencies:
      ```
@@ -16,7 +16,7 @@
 3. **Install Backend Dependencies**
    - Navigate to the backend directory:
      ```
-     cd your path to/11A1-React--Todo.List_SimpleFullstack-main/backend
+     cd your-path-to/11A1-React--Todo.List_SimpleFullstack-main/backend
      ```
    - Install backend dependencies:
      ```
